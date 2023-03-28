@@ -2,7 +2,7 @@
 
 # Luis Olivares (TheLightBringer616)
 
-I am an applied physics student in process of graduating and I am seeking a career as a Data Analyst or Data Scientist.
+I am an applied physicist in process and I am seeking a career as a Data Analyst or Data Scientist.
 <br>
 
 As an applied physicist, I have developed a strong understanding in mathematics and statistics, and a strong ability to solve a wide variety of problems.

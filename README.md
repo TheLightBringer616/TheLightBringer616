@@ -20,19 +20,19 @@ As an applied physicist, I have developed a strong understanding in mathematics 
 
 <br>
 
-** Certificates: ** <br>
+**Certificates:** <br>
 
 <br>
 
 The <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RGWUHSDF5WDW"> IBM Data Science Professional Certificate </a> which involves: <br>
 
-** Professional Certificate in Data Science and Machine Learning ** <br>
-** Learned Data Science methodology and used various data science tools ** <br>
-** Became proficient in Python and SQL ** <br>
-** Performed Data Visualization and Analysis ** <br>
-** Created Machine Learning models ** <br>
-** Completed several labs and assignments on the IBM cloud ** <br>
-** Culminated in a Capstone Project to demonstrate knowledge and skills ** <br>
+**Professional Certificate in Data Science and Machine Learning** <br>
+**Learned Data Science methodology and used various data science tools** <br>
+**Became proficient in Python and SQL** <br>
+**Performed Data Visualization and Analysis** <br>
+**Created Machine Learning models** <br>
+**Completed several labs and assignments on the IBM cloud** <br>
+**Culminated in a Capstone Project to demonstrate knowledge and skills** <br>
 
 <br>
 
